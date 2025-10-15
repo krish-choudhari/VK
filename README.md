@@ -1,3 +1,2 @@
 # VK
-This is my Java  project Starting
-///////////////////////////////////
+This is my Java Project.
